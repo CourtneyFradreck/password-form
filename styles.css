@@ -1,12 +1,14 @@
 body {
-  background-color: #fffff0;
+  background-color: #fcfcf7;
+  display: flex;
 }
 
 div.password_form {
-  background-color: white;
+  background-color: #fffff0;
   display: flex;
   justify-content: center;
   align-items: center;
+  align-self: center;
   height: 500px;
   width: 500px;
 }
