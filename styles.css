@@ -18,3 +18,8 @@ button {
   background-color: #bc13fe;
   color: #fff;
 }
+input[type="password"] {
+  padding: 15px;
+  border-radius: 10px;
+  width: 300px;
+}
