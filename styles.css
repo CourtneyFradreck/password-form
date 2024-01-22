@@ -11,6 +11,8 @@ div.password_form {
   align-self: center;
   height: 500px;
   width: 500px;
+  /*margin-left: 490px;
+  margin-top: 200px;*/
 }
 button {
   background-color: #bc13fe;
