@@ -1,6 +1,9 @@
 body {
   background-color: #fcfcf7;
   display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
 }
 
 div.password_form {
@@ -11,8 +14,7 @@ div.password_form {
   align-self: center;
   height: 500px;
   width: 500px;
-  /*margin-left: 490px;
-  margin-top: 200px;*/
+  margin-top: 115px;
 }
 button {
   background-color: #bc13fe;
